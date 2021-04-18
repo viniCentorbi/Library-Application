@@ -1,1 +1,1 @@
-# Library-Application
+Este trabalho tem por objetivo o desenvolvimento de uma aplicação de cadastro desenvolvida em Python com tema relacionado a biblioteca. Permitindo um numero ilimitado de cadastros, desfrutando de algumas funções, entre elas, ordenação e exclusão de cadastro pelo nome do livro, visualização da lista de cadastros, exportação dos mesmos via JSON.
